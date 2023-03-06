@@ -1,0 +1,48 @@
+ELECTRON-JS-to built desktop applications using web technologies,html,css,javascipt.vs code is built by electron-js.
+there are some keyboard shortcuts.
+* ctrl B -toggle to open the window
+* ctrl F -find and replace
+* ctrl Shift-toggle through the files
+* ctl P-search files
+* ctrl+shift+E-explore
+* ctrl+shift+D-debugger
+* ctrl+shift+G-Source control
+Extensions-lot of extensions and feautures.
+in .html file we have emmet snippets which is a feature to show html syntax automatically.
+it is built in vs code.
+suppose we o li*3 =>which gives three lists in html.
+in settings...
+we can change font fonts,font styles,font size,font-ligatures-which configures font feautures.
+*zoom-zoom the font of editor
+*workwrap-controls how lines should wrap.
+*we can change cursor style,cursor blinking.
+EXTENSIONS:
+*cobalt2 theme-we can change the theme.
+*prettier-code formatter-which helps to format the code.
+by adding advanced new file->put file in command way.in this way we can create.
+*better comments->differnt colours of comments for different symbols.
+*Quokka.js-javascript and typescript playground in editor.
++live server-serve this from real part,html code converted into web in a browser.
++*polacode-poloroid for the code.
+*autorename tag
+*bracket paitr colourizer-for easy identification.
+*bookmarks-mark line and jump to next.
+*cloak-hide things of private credentials.
+*css peek-allows peek to CSS.
+*Dot ENV file.
+*editor config-different types of editor.
+*fauna DB-database.
+*importCost-Display require/import package size in editor.
+*markdownpdf-create e-book,which converts into pdf.
+*sublime-import sublime text settings and key bindings into vs code.
+KEYBOARD SHORTCUTS.
+in settings we can see or change the shortcuts
+*we can create our own snippets.
+snippets-which is reusable source code.
+there is also built in snippets.
+
+
+
+
+
+
