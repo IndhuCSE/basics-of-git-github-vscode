@@ -1,0 +1,13 @@
+about git..
+1-->The perfit commit:
+* add the right changes
+* compose a good commit message
+more topics mixed in the commit is harder to understand.
+GIT STAGING AREA concept is allows you to select specific files.
+in terminal,
+$git status get status.
+$ git add css/general.css --add css file
+& git diff index.html--another file index html ,we can see what changes it currently contains
+two parts of changes,first one belong to next commit topic,but not second one
+we can add first part to the staging area,
+4 git add-p index.html--we can decide what to add what to not
